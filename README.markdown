@@ -1,0 +1,1 @@
+Creating a program for playing tic-tac-toe or gomoku, which differ only in board size and the number of stones in a row that are required to win. This program will include a game server like the one in my [Island Wari program](http://github.com/ericlavigne/island-wari), as well as a computer player.
